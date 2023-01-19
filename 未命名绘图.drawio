@@ -1,24 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-01-19T05:05:21.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="rUf3hv6Vukuny13mIoO3" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-19T05:43:25.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="a2KOhiLcu3fO6PGudAOk" version="20.8.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2049" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lhz5KJ_MUgVAsTisq1fL-2274" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#BAC8D3;fontSize=24;fontColor=#23445D;align=center;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="700" y="530" width="290" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="lhz5KJ_MUgVAsTisq1fL-2281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2094">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="990" y="640" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1305" y="640" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lhz5KJ_MUgVAsTisq1fL-2282" value="&lt;h1&gt;4.上传镜像&lt;/h1&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lhz5KJ_MUgVAsTisq1fL-2281">
-          <mxGeometry x="0.1307" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="2094" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#BAC8D3;fontSize=24;fontColor=#23445D;align=center;opacity=60;" parent="1" vertex="1">
           <mxGeometry x="1160" y="250" width="290" height="230" as="geometry" />
